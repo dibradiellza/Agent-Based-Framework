@@ -1,4 +1,5 @@
 # Agent-Based-Framework
+
 This repository contains the implementation of an autonomous agent-based framework for cryptocurrency trading strategy development using Large Language Models (LLMs). The project was developed as part of my Master's thesis at the University of Basel.
 
 Inspired by Karpathy's AutoResearch paradigm, the framework enables LLM agents to iteratively generate, evaluate, and refine Python-based trading strategies through interaction with a fixed backtesting environment. Candidate strategies are assessed using predefined performance metrics, and only modifications that improve performance are retained, creating a fully autonomous optimization loop without human intervention.
